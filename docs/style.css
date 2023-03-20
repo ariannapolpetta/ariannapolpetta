@@ -6,16 +6,19 @@
 /*hero background image */
 .bgimage {
     height:100vh;
-    background: url('herolmage.jpeg');
+    background: url('images/persona-di-vista-superiore-che-scrive-sul-computer-portatile-con-lo-spazio-della-copia.jpg');
     background-size:cover;
     position:relative;
 }
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
+    color: blue;
 }
 .hero_desc {
     font-size: 2rem;
+    color: gray;
+
 }
 .hero-text {
     text-align: center;
