@@ -30,7 +30,7 @@
 }
 
 /* spacing on all sections */
-/* #about, #services, #portfolio, #contact {
+/* #about, #projects, #profile, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 } */
@@ -42,23 +42,24 @@
     width: 100%;
 }
 
-/* services section css */
-.servicesText.card {
+/* projects section css */
+.projectsText.card {
     height: 280px;
     cursor: pointer;
   }
-.servicesIcon {
+.projectsIcon {
     font-size: 36px;
     text-align: center;
     width: 100%;
+    
 }
 .card-title {
     text-align: center;
 }
-.card:hover .servicesIcon {
+.card:hover .projectsIcon {
     color: #ec88e2;
 }
-.servicesText:hover {
+.projectsText:hover {
     border: 1px solid #ec88e2;
 }
 
@@ -71,10 +72,10 @@
     color: #ec88e2;
 }
 .fab {
-    color: #000000;
+    color: grey;
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
+    background-color: black;
     text-align: center;
 }
