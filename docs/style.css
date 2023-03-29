@@ -36,7 +36,13 @@
 } */
 #contact {
     padding-bottom: 4rem;
-}
+    
+      
+} 
+
+
+    
+
 /* about section image css */
 .imageAboutPage {
     width: 100%;
@@ -48,19 +54,30 @@
     cursor: pointer;
   }
 .projectsIcon {
-    font-size: 36px;
+    font-size: 45px;
     text-align: center;
     width: 100%;
+    }
     
-}
+    
+
 .card-title {
     text-align: center;
 }
 .card:hover .projectsIcon {
     color: #ec88e2;
-}
+}.btn-success {color: #ffffff;
+    } 
+    .btn-success {border-color: #ec88e2;
+    
+    }
+    
+
 .projectsText:hover {
     border: 1px solid #ec88e2;
+}
+.btn-success {background-color: #ec88e2;
+    
 }
 
 /* social media icons styling */
