@@ -1,6 +1,6 @@
 My Personal website repository.
 Check it out on my GitHub Page
-[My page](https://ariannapolpetta.github.io/ariannapolpetta)
+[My page](https://ariannapolpetta.github.io/)
 
 # Tools used #
 * HTML, CSS and JavaScript
