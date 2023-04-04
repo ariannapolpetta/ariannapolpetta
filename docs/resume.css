@@ -1,0 +1,61 @@
+
+/* Write CSS Here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(197, 243, 240);
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.full {
+    width: 50%;
+    max-width: 1000px;
+    min-height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.left {
+    position: initial;
+   
+    padding: 20px;
+ 
+}
+.right {
+    position: initial;
+ 
+    padding: 20px;
+    z-index: 0;
+ 
+}
+.image, .Contact, .Skills, .Language, .Hobbies, .title,
+.Summary, .Experience, .Education, .Waitress, .project {
+    margin-bottom: 30px;
+}
+.h2 {
+    background-color: rgb(4, 96, 150);
+}
+
+.rectangle {
+    width: 200px;
+    height: 100px;
+    background: #e9b2ef;
+    position: relative;
+    top: -80px;
+    z-index: -1;
+
+    
+   
+  }
+  .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover, .fa-envelope:hover {
+    color: #ec88e2;
+}
+.fab,.fa{
+    color: grey;
+}

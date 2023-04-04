@@ -1,7 +1,8 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: black;
-}
+} 
+
 
 /*hero background image */
 .bgimage {
@@ -73,7 +74,8 @@
     
     }
     
-
+.btn-success:hover {
+    background-color: #ec88e2;}
 .projectsText:hover {
     border: 1px solid #ec88e2;
 }
